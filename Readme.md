@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hemant </h1>
 <h3 align="center">I'm a passionate AI/ML and VLSI 
-Pioneer from India.</h3>
+Pioneer from India.<img src="https://img.icons8.com/emoji/96/000000/india-emoji.png"/></h3>
 
 
 ## 🙋‍♂️ About Me
